@@ -11,7 +11,10 @@ http://3.39.231.168:8090/ft
 # [1] 기술 스택
 ![image](https://github.com/Ape07Park/Final-project-24.05-integralation/assets/132667775/5b77c38a-1026-4411-a1e4-659baab2391e)
 
-# [2] 주요 기능
+# [2] 아키텍처
+![아키텍쳐 drawio](https://github.com/Ape07Park/Human-Final-Project/assets/132667775/fd9907ed-339a-4555-9032-c205fa787aca)
+
+# [3] 주요 기능
 ## 유저
 - 회원가입
 - 로그인
@@ -55,16 +58,16 @@ http://3.39.231.168:8090/ft
 - CoolSMS
 - Azure
 
-# [3] 업무 플로우
+# [4] 업무 플로우
 ![image](https://github.com/Ape07Park/Final-project-24.05-integralation/assets/132667775/56fda504-e0bf-4460-bc2c-1721d16251a0)
 
-# [4] ERD
+# [5] ERD
 ![image](https://github.com/Ape07Park/Final-project-24.05-integralation/assets/132667775/1acb14e4-d903-44ff-9902-b30729a0a6ce)
 
-# [5] API 명세
+# [6] API 명세
 ![image](https://github.com/Ape07Park/Final-project-24.05-integralation/assets/132667775/3a5ba29d-a5d8-4643-9bef-6842265f0861)
 
-# [6] 서비스 구성
+# [7] 서비스 구성
 ## [1] 메인![image](https://github.com/Ape07Park/Final-project-24.05-integralation/assets/132667775/cef4c586-bb21-4fd9-ac71-f3ec1e1889ee)
 
 ## [2] 로그인![image](https://github.com/Ape07Park/Final-project-24.05-integralation/assets/132667775/91ddb2eb-a178-45bc-bf64-87185a219a79)
