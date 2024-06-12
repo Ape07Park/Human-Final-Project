@@ -5,7 +5,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-@Controller // Spring MVC의 컨트롤러 클래스임을 나타냄
+@Controller
 public class WebController {
 
     /**
