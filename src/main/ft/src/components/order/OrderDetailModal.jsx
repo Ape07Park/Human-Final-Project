@@ -47,7 +47,7 @@ const OrderDetailModal = ({ isOpen, handleClose, order }) => {
           ))}
         </Typography>
         <Typography sx={{ mt: 2 }}>
-          가격: {order.price.toLocaleString()}원
+          가격: {order.totalPrice.toLocaleString()}원
         </Typography>
         <Typography sx={{ mt: 2 }}>
           개수: {order.count}

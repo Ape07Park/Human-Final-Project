@@ -74,7 +74,7 @@ const AdminOrderHistoryListContent = () => {
         .map(([orderId, orderList]) => ({
           orderId,
           orderList,
-          totalPrice: orderList.reduce((total, item) => total + item.price, 0),
+          totalPrice: orderList.reduce((total, item) => total + item.price * item.count, 0),
         }));
     } else if (sortBy === 'status') {
       return Object.entries(getGroupedOrders())
@@ -92,7 +92,7 @@ const AdminOrderHistoryListContent = () => {
         .map(([orderId, orderList]) => ({
           orderId,
           orderList,
-          totalPrice: orderList.reduce((total, item) => total + item.price, 0),
+          totalPrice: orderList.reduce((total, item) => total + item.price * item.count, 0),
         }));
     }
   };
