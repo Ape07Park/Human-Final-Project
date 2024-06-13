@@ -55,7 +55,7 @@ const NonMemberOrderHistory = () => {
       .map(([orderId, orderList]) => ({
         orderId,
         orderList,
-        totalPrice: orderList.reduce((total, item) => total + item.price, 0), // calculate total price for each order
+        totalPrice: orderList.reduce((total, item) => total + item.price * item.count, 0), // calculate total price for each order
       }));
   };
 
