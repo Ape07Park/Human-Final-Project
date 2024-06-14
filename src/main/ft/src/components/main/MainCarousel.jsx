@@ -1,13 +1,13 @@
 import React, { forwardRef, useEffect, useState } from 'react';
 import Carousel from 'react-material-ui-carousel';
 import { Paper } from '@mui/material';
-import CarouselImage1 from './carousel1.png';
-import CarouselImage2 from './carousel2.png';
 import './maincarousel.css';
 
 const MainCarousel = forwardRef(() => {
     const [imagesLoaded, setImagesLoaded] = useState(false);
     const [error, setError] = useState(false); // 에러 상태 추가
+    const CarouselImage1 = '/ft/img/CarouselImage1.png';
+    const CarouselImage2 = '/ft/img/CarouselImage2.png';  
     
     const items = [
         {
