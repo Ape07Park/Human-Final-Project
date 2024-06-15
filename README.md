@@ -11,35 +11,63 @@
 # [1] 기술 스택
 ![image](https://github.com/Ape07Park/Final-project-24.05-integralation/assets/132667775/5b77c38a-1026-4411-a1e4-659baab2391e)
 
-# [2] 주요 기능
+# [2] 아키텍처
+![아키텍쳐 drawio](https://github.com/Ape07Park/Human-Final-Project/assets/132667775/fd9907ed-339a-4555-9032-c205fa787aca)
+
+# [3] 주요 기능
 ## 유저
-회원가입, 로그인, 유저 마이페이지, 유저 정보 수정, 이메일로 비밀번호 변경, sms 아이디 찾기 비밀번호 변경
+- 회원가입
+- 로그인
+- 유저 마이페이지
+- 유저 정보 수정
+- 이메일로 비밀번호 변경
+- SMS 아이디 찾기 및 비밀번호 변경
 
 ## 아이템
-상품 리스트, 리뷰, 해시태그, 검색, 문의, 세일
+- 상품 리스트
+- 리뷰
+- 해시태그
+- 검색
+- 문의
+- 세일
 
 ## 장바구니
-상품 저장, 구매 후 삭제
+- 상품 저장
+- 구매 후 삭제
 
 ## 주문
-결제, 송장번호 조회, 구매 내역
-
+- 결제
+- 송장번호 조회
+- 구매 내역
+- 현재 배달 상태
+  
 ## 관리자
-상품 관리 / 문의내역 관리 / 주문 내역 관리/ 상품 통계
+- 상품 관리
+- 문의내역 관리
+- 주문 내역 관리
+- 상품 통계
 
 ## api
-Firebase Authentication, realtimeDB, Cloudinary, Toss, DeliveryTracker, Chart.js, Karlo, CoolSMS, Azure 등이 있습니다.
+- Firebase Authentication
+- Firebase Realtime DB
+- Cloudinary
+- Toss
+- DeliveryTracker
+- Chart.js
+- Karlo
+- CoolSMS
+- Azure
 
-# [3] 업무 플로우
+# [4] 업무 플로우
 ![image](https://github.com/Ape07Park/Final-project-24.05-integralation/assets/132667775/56fda504-e0bf-4460-bc2c-1721d16251a0)
 
-# [4] ERD
+# [5] ERD
 ![image](https://github.com/Ape07Park/Final-project-24.05-integralation/assets/132667775/1acb14e4-d903-44ff-9902-b30729a0a6ce)
 
-# [5] API 명세
+# [6] API 명세
 ![image](https://github.com/Ape07Park/Final-project-24.05-integralation/assets/132667775/3a5ba29d-a5d8-4643-9bef-6842265f0861)
 
-# [6] 서비스 구성
+# [7] 서비스 구성
 ## [1] 메인![image](https://github.com/Ape07Park/Final-project-24.05-integralation/assets/132667775/cef4c586-bb21-4fd9-ac71-f3ec1e1889ee)
 
 ## [2] 로그인![image](https://github.com/Ape07Park/Final-project-24.05-integralation/assets/132667775/91ddb2eb-a178-45bc-bf64-87185a219a79)
@@ -77,3 +105,9 @@ Firebase Authentication, realtimeDB, Cloudinary, Toss, DeliveryTracker, Chart.js
 
 
 ## [16] 통계(관리자)![image](https://github.com/Ape07Park/Final-project-24.05-integralation/assets/132667775/7d210218-f211-41c0-907b-46da6030a680)
+
+
+
+
+
+
