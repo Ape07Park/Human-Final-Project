@@ -8,8 +8,13 @@
 # 프로젝트 기간
 - 2024년 4월 16일 ~ 2024년 6월 14일
 
-# 인원
-6명
+# 역할 분담
+- 이강성: 상품, 리뷰, 문의의 기능과 결제(toss), 택배(DeliveryTracker), Karlo, cloudinary api, 통합, 배포
+- 송햇님: 택배(스마트택배) API, 주문내역캘린더, 문의, 비회원주문, 개발자페이지, 하트 토글
+- 정아름: 후기, 회원 주문, footer, ERD, 통계(상품 분석), 실시간 검색어
+- 박성민: 주문, Firebase를 이용한 유저, 소셜로그인 기능과 RealtimeDB, Karlo, CoolSMS api, 배포
+- 홍시표: 최근 상품, 장바구니와 관리자 분석, 통계 페이지, Azure api
+- 김용현: 디자인, 유저인터페이스, 페이지 데이터 출력 기능 연결
 
 # [1] 기술 스택
 ![image](https://github.com/Ape07Park/Final-project-24.05-integralation/assets/132667775/5b77c38a-1026-4411-a1e4-659baab2391e)
