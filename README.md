@@ -161,8 +161,21 @@
    <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/80208268-7568-4e93-8814-098216e05845" alt="로그인">
     <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/9e57f60d-5f29-4026-8382-e2d6817a3ff6" alt="로그인">
   </ul>
-
   </div>
+  
+  <details>
+  <summary><b>2. 문의내역 관리</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <ul>
+      <li>관리자 페이지에서 사용자 문의 내역 관리</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/eec2357b-a489-4de2-b733-5e74b06b9b1d" alt="로그인">
+  </ul>
+  </div>
+</details>
+
+  ![image](https://github.com/Ape07Park/Human-Final-Project/assets/132667775/eec2357b-a489-4de2-b733-5e74b06b9b1d)
+
 </details>
 2. 문의내역 관리
  - 관리자 페이지에서 사용자 문의 내역 관리
