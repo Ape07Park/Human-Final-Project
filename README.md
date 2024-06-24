@@ -115,7 +115,7 @@
   <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/2adb478e-e284-480a-a563-c4ccc32ccabb" alt="로그인">
 
    <li>비밀번호 입력</li>
-  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/a0f2a854-fd6d-4c00-83e0-786bb9a3ef3f" alt="로그인">   
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/91770945-035c-4d0a-be3a-7096f9e78c78" alt="로그인">   
   </ul>
   </div>
 </details>
