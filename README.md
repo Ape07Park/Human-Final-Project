@@ -38,7 +38,18 @@
 </details>
 
 2. 유저 마이페이지
- - Firebase Realtime DB를 이용하여 유저 정보 저장 및 관리
+ <details>
+  <summary><b>2. 유저 마이페이지</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <h3>유저 마이페이지</h3>
+    <ul>
+      <li>Firebase Realtime DB를 이용하여 유저 정보 저장 및 관리</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/254bf3b4-babf-4620-a069-2b4180276bb0" alt="로그인">
+  </ul>
+  </div>
+</details>
+
 3. 유저 정보 수정
  - Firebase Authentication 및 Realtime DB를 통해 유저 정보 업데이트
 4. 이메일로 비밀번호 변경
