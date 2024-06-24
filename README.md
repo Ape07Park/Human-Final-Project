@@ -37,7 +37,6 @@
   </div>
 </details>
 
-2. 유저 마이페이지
  <details>
   <summary><b>2. 유저 마이페이지</b> (👈 Click)</summary>
   <br>
@@ -49,7 +48,6 @@
   </div>
 </details>
 
-3. 유저 정보 수정
   <details>
   <summary><b>3. 유저 정보 수정</b> (👈 Click)</summary>
   <br>
