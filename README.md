@@ -86,8 +86,39 @@
   </div>
 </details>
 
-5. SMS 아이디 찾기 및 비밀번호 변경
- - CoolSMS API를 활용하여 SMS 전송 기능을 통해 아이디 찾기 및 비밀번호 변경 기능 구현
+ <details>
+  <summary><b>5. SMS로 비밀번호 변경</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <ul>
+      <li>CoolSMS API를 활용하여 SMS 전송 기능을 통해 비밀번호 변경 기능 구현</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/a1ad60dc-dad6-402d-a3c0-cf695aef10c3" alt="로그인">
+
+  <li>인증코드 확인</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/2adb478e-e284-480a-a563-c4ccc32ccabb" alt="로그인">
+
+   <li>비밀번호 입력</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/a0f2a854-fd6d-4c00-83e0-786bb9a3ef3f" alt="로그인">   
+  </ul>
+  </div>
+</details>
+
+<details>
+  <summary><b>6. SMS로 아이디 찾기</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <ul>
+      <li>CoolSMS API를 활용하여 SMS 전송 기능을 통해 아이디 찾기 기능 구현</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/a1ad60dc-dad6-402d-a3c0-cf695aef10c3" alt="로그인">
+
+  <li>인증코드 확인</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/2adb478e-e284-480a-a563-c4ccc32ccabb" alt="로그인">
+
+   <li>비밀번호 입력</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/a0f2a854-fd6d-4c00-83e0-786bb9a3ef3f" alt="로그인">   
+  </ul>
+  </div>
+</details>
 
 ## 상품 관련 기능
 1. 상품 리스트 및 상세 페이지
