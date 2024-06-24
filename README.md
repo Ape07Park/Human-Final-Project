@@ -42,7 +42,6 @@
   <summary><b>2. 유저 마이페이지</b> (👈 Click)</summary>
   <br>
   <div markdown="1">
-    <h3>유저 마이페이지</h3>
     <ul>
       <li>Firebase Realtime DB를 이용하여 유저 정보 저장 및 관리</li>
   <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/254bf3b4-babf-4620-a069-2b4180276bb0" alt="로그인">
@@ -51,7 +50,17 @@
 </details>
 
 3. 유저 정보 수정
- - Firebase Authentication 및 Realtime DB를 통해 유저 정보 업데이트
+  <details>
+  <summary><b>3. 유저 정보 수정</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <ul>
+      <li>Firebase Authentication 및 Realtime DB를 통해 유저 정보 업데이트</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/e44fc74c-4550-4ba3-b1e8-186e4c93b88a" alt="로그인">
+  </ul>
+  </div>
+</details>
+
 4. 이메일로 비밀번호 변경
  - Firebase Authentication을 이용하여 이메일로 비밀번호 변경 기능 제공
 5. SMS 아이디 찾기 및 비밀번호 변경
