@@ -32,9 +32,7 @@
     <h3>로그인</h3>
     <ul>
       <li>Firebase Authentication을 사용하여 사용자 인증 기능 구현</li>
-
   <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/7e72acca-af8f-4a17-8a83-714c0169b56f" alt="로그인">
-
   </ul>
   </div>
 </details>
