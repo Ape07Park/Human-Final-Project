@@ -25,8 +25,21 @@
 
 # [3] 주요 기능
 ## 유저 관련 기능
-1. 회원가입 및 로그인
- - Firebase Authentication을 사용하여 사용자 인증 기능 구현
+<details>
+  <summary><b>1. 회원가입 및 로그인</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <h3>로그인</h3>
+    <ul>
+      <li>Firebase Authentication을 사용하여 사용자 인증 기능 구현</li>
+
+      <img src="![image](https://github.com/Ape07Park/Human-Final-Project/assets/132667775/7e72acca-af8f-4a17-8a83-714c0169b56f)
+" alt="로그인1">
+
+         </ul>
+    </div>
+</details>
+
 2. 유저 마이페이지
  - Firebase Realtime DB를 이용하여 유저 정보 저장 및 관리
 3. 유저 정보 수정
