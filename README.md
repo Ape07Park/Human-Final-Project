@@ -92,8 +92,7 @@
   <div markdown="1">
     <ul>
       <li>CoolSMS API를 활용하여 SMS 전송 기능을 통해 비밀번호 변경 기능 구현</li>
-  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/6ea31679-2576-47d4-b691-56d74185894a
-" alt="로그인">
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/5a29b2eb-af84-4af1-a1ab-d53dacc6ef0b" alt="로그인">
 
   <li>인증코드 확인</li>
   <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/2adb478e-e284-480a-a563-c4ccc32ccabb" alt="로그인">
