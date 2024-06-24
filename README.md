@@ -145,8 +145,33 @@
  - 데이터베이스에 구매 내역 저장 및 관리
   
 ## 관리자 관련 기능
-1. 상품 관리
- - 관리자 페이지에서 상품 등록, 수정, 삭제 기능 구현
+<details>
+  <summary><b>1. 상품 관리</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <ul>
+      <li>관리자 페이지에서 상품 등록, 수정, 삭제 기능 구현</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/bc1d2748-037e-4253-b88c-1fa8c1370e0a" alt="로그인">
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/8d1568ec-7564-4bdf-b67a-49c016981d54" alt="로그인">
+      
+  <li>이메일 변경을 위한 이메일 입력 모달</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/017a8a55-bcbe-4ba8-8d24-82eacdf46087" alt="로그인">
+       
+  <li>이메일 입력 시 변경됨</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/d7b9a39c-aa91-44c7-a56c-abe8669fae45" alt="로그인">
+
+  <li>이메일</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/4069e2d1-947b-40f1-9c40-2b824bce4bdb" alt="로그인">
+
+  <li>이메일로 비밀번호 변경</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/0e715eaa-0de6-4600-83b9-fe7a5a9e6ff1" alt="로그인">
+  </ul>
+
+   <li>이메일로 비밀번호 변경 완료</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/99f5e50b-1745-4510-8300-1284aeffaafe" alt="로그인">
+  </ul>  
+  </div>
+</details>
 2. 문의내역 관리
  - 관리자 페이지에서 사용자 문의 내역 관리
 3. 주문 내역 관리
