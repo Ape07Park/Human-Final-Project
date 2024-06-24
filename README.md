@@ -151,7 +151,12 @@
   <div markdown="1">
     <ul>
       <li>관리자 페이지에서 상품 등록, 수정, 삭제 기능 구현</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/45972bdb-0ff3-4fb4-8411-8aaaf3bcde5c" alt="로그인">
+
+  <li>관리자 페이지에서 상품 등록</li>
   <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/bc1d2748-037e-4253-b88c-1fa8c1370e0a" alt="로그인">
+
+   <li>관리자 페이지에서 상품 수정</li>
   <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/8d1568ec-7564-4bdf-b67a-49c016981d54" alt="로그인">
       
   <li>이메일 변경을 위한 이메일 입력 모달</li>
