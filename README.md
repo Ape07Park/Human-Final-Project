@@ -160,6 +160,9 @@
   <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/1c5c2f62-8c90-4cc4-9fe3-9832d2de6dd2" alt="로그인">
    <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/80208268-7568-4e93-8814-098216e05845" alt="로그인">
     <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/9e57f60d-5f29-4026-8382-e2d6817a3ff6" alt="로그인">
+
+  <li>관리자 페이지에서 세일 설정</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/e17a54e2-e171-449a-b1cc-711611fdbf60" alt="로그인">
   </ul>
   </div>
   
@@ -173,12 +176,8 @@
   </ul>
   </div>
 </details>
-
-  ![image](https://github.com/Ape07Park/Human-Final-Project/assets/132667775/eec2357b-a489-4de2-b733-5e74b06b9b1d)
-
 </details>
-2. 문의내역 관리
- - 관리자 페이지에서 사용자 문의 내역 관리
+
 3. 주문 내역 관리
  - 관리자 페이지에서 주문 정보 확인 및 처리
 4. 상품 통계
