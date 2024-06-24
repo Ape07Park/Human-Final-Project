@@ -193,11 +193,18 @@
   </div>
 </details>
 
-
-3. 주문 내역 관리
- - 관리자 페이지에서 주문 정보 확인 및 처리
-4. 상품 통계
- - 데이터베이스에서 추출한 데이터를 기반으로 한 상품 판매 통계 제공
+ <details>
+  <summary><b>4. 상품 통계</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <ul>
+      <li>데이터베이스에서 추출한 데이터를 기반으로 한 상품 판매 통계 제공</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/4b7bc210-d966-4a53-a985-5045bcd22f4f" alt="로그인">
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/8d60bf1e-d5d6-4ccd-b9c2-0d15a3f56c66" alt="로그인">
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/538924e6-dd79-4bed-806a-669b616bdaa7" alt="로그인">    
+  </ul>
+  </div>
+</details>
 
 ## api
 - Firebase Authentication
