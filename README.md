@@ -59,8 +59,33 @@
   </div>
 </details>
 
-4. 이메일로 비밀번호 변경
- - Firebase Authentication을 이용하여 이메일로 비밀번호 변경 기능 제공
+ <details>
+  <summary><b>4. 이메일로 비밀번호 변경</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <ul>
+      <li>Firebase Authentication을 이용하여 이메일로 비밀번호 변경 기능 제공</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/3bb2f4ad-d65b-4ced-a880-de6f03bfd2f3" alt="로그인">
+       
+  <li>이메일 변경을 위한 이메일 입력 모달</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/017a8a55-bcbe-4ba8-8d24-82eacdf46087" alt="로그인">
+       
+  <li>이메일 입력 시 변경됨</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/d7b9a39c-aa91-44c7-a56c-abe8669fae45" alt="로그인">
+
+  <li>이메일</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/4069e2d1-947b-40f1-9c40-2b824bce4bdb" alt="로그인">
+
+  <li>이메일로 비밀번호 변경</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/0e715eaa-0de6-4600-83b9-fe7a5a9e6ff1" alt="로그인">
+  </ul>
+
+   <li>이메일로 비밀번호 변경 완료</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/99f5e50b-1745-4510-8300-1284aeffaafe" alt="로그인">
+  </ul>  
+  </div>
+</details>
+
 5. SMS 아이디 찾기 및 비밀번호 변경
  - CoolSMS API를 활용하여 SMS 전송 기능을 통해 아이디 찾기 및 비밀번호 변경 기능 구현
 
