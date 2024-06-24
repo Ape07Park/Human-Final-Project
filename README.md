@@ -109,7 +109,7 @@
   <div markdown="1">
     <ul>
       <li>CoolSMS API를 활용하여 SMS 전송 기능을 통해 아이디 찾기 기능 구현</li>
-  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/10dc9089-53a6-4e52-aa43-f0a614571f0f" alt="로그인">
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/f31d8c7f-d96c-4d3e-aba5-fadce20ac859" alt="로그인">
 
   <li>인증코드 확인</li>
   <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/2adb478e-e284-480a-a563-c4ccc32ccabb" alt="로그인">
