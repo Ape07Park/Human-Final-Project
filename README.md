@@ -165,6 +165,7 @@
   <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/e17a54e2-e171-449a-b1cc-711611fdbf60" alt="로그인">
   </ul>
   </div>
+  </details>
   
   <details>
   <summary><b>2. 문의내역 관리</b> (👈 Click)</summary>
@@ -176,7 +177,18 @@
   </ul>
   </div>
 </details>
+
+ <details>
+  <summary><b>3. 주문 내역 관리</b> (👈 Click)</summary>
+  <br>
+  <div markdown="1">
+    <ul>
+      <li>관리자 페이지에서 주문 정보 확인 및 처리</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/aec55160-ef8c-4a2a-a0b8-dd6cf849989a" alt="로그인">
+  </ul>
+  </div>
 </details>
+
 
 3. 주문 내역 관리
  - 관리자 페이지에서 주문 정보 확인 및 처리
