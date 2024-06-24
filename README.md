@@ -157,8 +157,9 @@
   <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/bc1d2748-037e-4253-b88c-1fa8c1370e0a" alt="로그인">
 
    <li>관리자 페이지에서 상품 수정</li>
-  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/8d1568ec-7564-4bdf-b67a-49c016981d54" alt="로그인">
-    
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/1c5c2f62-8c90-4cc4-9fe3-9832d2de6dd2" alt="로그인">
+   <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/80208268-7568-4e93-8814-098216e05845" alt="로그인">
+    <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/9e57f60d-5f29-4026-8382-e2d6817a3ff6" alt="로그인">
   </ul>
 
   </div>
