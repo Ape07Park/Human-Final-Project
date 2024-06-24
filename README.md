@@ -185,6 +185,10 @@
     <ul>
       <li>관리자 페이지에서 주문 정보 확인 및 처리</li>
   <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/aec55160-ef8c-4a2a-a0b8-dd6cf849989a" alt="로그인">
+        <li>관리자 페이지에서 송장번호 입력 모달창</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/213599f0-a26b-4142-89ae-5216384642b5" alt="로그인">
+      <li>관리자 페이지에서 주문상세정보 모달창</li>
+  <img src="https://github.com/Ape07Park/Human-Final-Project/assets/132667775/7fb509ba-171b-40d3-880e-ed347b8ecb4c" alt="로그인">
   </ul>
   </div>
 </details>
